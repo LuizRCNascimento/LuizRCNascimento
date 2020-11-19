@@ -1,6 +1,6 @@
 ### Hi there  <img align="right" src="https://images.emojiterra.com/google/android-11/512px/1f1e7-1f1f7.png" alt="img" width="40" /> 
 
-My name is Luiz Nascimento (44) and I'm working on a career trasition. 
+My name is Luiz Nascimento (44) and I'm working on a career transition. 
 I'm a mechanic engineer and after almost 18 year working at Ford Motor Co I decided to follow my heart and my passion.
 
 Currently, I'm studying at FAM University in Brazil to get a background of system and development. That's a new experience and so many tools and languages to understand the entire process to became a successfull Full Stack Developer. It's my challenge from now on. **Let's move forward!!!**
