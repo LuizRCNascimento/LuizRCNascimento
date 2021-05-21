@@ -18,18 +18,16 @@ Even without a huge amount of projects and/or contributions, I decided to includ
 
 ### Languages
 
--  **C#**: <img height="20" src="https://i.pinimg.com/originals/2b/5b/ab/2b5bab6427a23b349185833ef09f3eb7.jpg" alt="https://github.com/LuizRCNascimento" />
-
--  **Python**:
-  [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
-
 -  **Java**: 
   [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento) 
   [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento) 
   [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
-  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento) (In Progress)
+  [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
+
+
+-  **C#**: <img height="20" src="https://i.pinimg.com/originals/2b/5b/ab/2b5bab6427a23b349185833ef09f3eb7.jpg" alt="https://github.com/LuizRCNascimento" />
 
 -  **JavaScript**: 
   [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
@@ -44,6 +42,7 @@ Even without a huge amount of projects and/or contributions, I decided to includ
 ### Tools
 
 -  **Software Development:**
+[![Eclipse IDEA](https://img.shields.io/badge/-lightgray?style=flat&logo=Eclipse&link=https://github.com/LuizRCNascimento "Eclipse")](https://github.com/LuizRCNascimento)
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/LuizRCNascimento "IntelliJ IDEA")](https://github.com/LuizRCNascimento)
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white&link=https://github.com/LuizRCNascimento "Visual Studio")](https://github.com/LuizRCNascimento)
 
