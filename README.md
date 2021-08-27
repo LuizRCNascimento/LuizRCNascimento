@@ -1,6 +1,6 @@
 ### Hi there  <img align="right" src="https://images.emojiterra.com/google/android-11/512px/1f1e7-1f1f7.png" alt="img" width="40" /> 
 
-My name is Luiz Nascimento (44) and I'm working on a career transition. 
+My name is Luiz Nascimento (45) and I'm working on a career transition. 
 I'm a mechanic engineer and after almost 18 year working at Ford Motor Co I decided to follow my heart and my passion.
 
 Currently, I'm studying at FAM University in Brazil to get a background of system and development. That's a new experience and so many tools and languages to understand the entire process to become a successfull Full Stack Developer. It's my challenge from now on. **Let's move forward!!!**
@@ -23,7 +23,6 @@ Even without a huge amount of projects and/or contributions, I decided to includ
   [![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
   [![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
   [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento) 
-  [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&link=hhttps://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
   [![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/LuizRCNascimento)](https://github.com/LuizRCNascimento)
 
 
